@@ -98,7 +98,6 @@ Publish the website in the LocalHost.
     </div>
     <div class="book-footer">2025 Edition</div>
   </div>
-
 </body>
 </html>
 
